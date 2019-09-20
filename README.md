@@ -1,1 +1,2 @@
-OTUS_ML_HOMEWORKS
+OTUS "Machine learning" course.
+My homeworks.
